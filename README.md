@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://github.com/rachediabdenacer/rachediabdenacer/blob/main/dino.gif)
 
 <!--
 **rachediabdenacer/rachediabdenacer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
